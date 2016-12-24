@@ -3,6 +3,7 @@ FileXIdentifier is a tool to identify real file extension for windows os based o
 See the [change log](CHANGELOG.md) for changes and road map.
 
 ## Binaries
+Download the source code or binary only in [FileXIdentifier Releases](https://github.com/gajjartejas/FileXIdentifier/releases/latest)
 
 ## Features 
 - FileXIdentifier is a tool to identify real file extension for windows os based on TrIDLib.
