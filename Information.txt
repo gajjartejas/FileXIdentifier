@@ -1,0 +1,16 @@
+Developing Environment and Software Used:
+• Autoit 3.3.8.1+ (www.autoitscript.com)
+• SciTE4AutoIt3 (www.autoitscript.com)
+• Koda Form Desiner (http://koda.darkhost.ru/)
+
+Licence:
+• GNU GPL v3.0
+
+Features:
+  1 FileXIdentifier is a tool to identify real file extension for windows os based on TrIDLib.
+  2 Drag and drop support.
+
+Change Log:
+
+August 07th, 2016 v1.0.0.0
+• Intial Release
