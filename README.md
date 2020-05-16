@@ -1,3 +1,8 @@
+ 
+ [<img align="right" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/instagram.svg" width="50" height="50" />](http://www.instagram.com/gajjartejas)
+ [<img align="right" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/twitter.svg" width="50" height="50" />](http://www.twitter.com/gajjartejas)
+ [<img align="right" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/reddit.svg" width="50" height="50" />](http://www.reddit.com/u/gajjartejas)
+
 # FileXIdentifier
 FileXIdentifier is a tool to identify real file extension for windows os based on TrIDLib.
 See the [change log](CHANGELOG.md) for changes and road map.
